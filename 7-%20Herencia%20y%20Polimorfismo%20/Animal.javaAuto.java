@@ -16,3 +16,4 @@ public class Auto extends Vehiculo {
         System.out.println("Puertas: " + cantidadPuertas);
     }
 }
+
